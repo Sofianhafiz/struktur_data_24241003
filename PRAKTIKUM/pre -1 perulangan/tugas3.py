@@ -16,4 +16,4 @@ while count < jumlah: # untuk mngulangi sampai jumlah tercapai
     # Geser nilai untuk lanjut ke perhitungan berikutnya
     a = b
     b = c
-    count += 1 # untuk menambah jumlah angka yg sudah di tampilkan 
+    count += 1 # untuk menambah jumlah angka yg sudah di tampilkan
